@@ -1,0 +1,19 @@
+p{text-align: left;}
+.learnm{
+text-align: left;
+
+}
+.favo{text-align:right;
+float:right;
+color:goldenrod;
+border-color:goldenrod;
+background-color: white;
+border-radius: 20px;
+
+}
+
+.titres{
+    color:goldenrod;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    padding-top: 10px;
+}

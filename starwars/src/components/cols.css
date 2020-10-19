@@ -1,0 +1,39 @@
+.titul{font-family:"Comic Sans MS", cursive, sans-serif;}
+.carac{
+color:goldenrod;
+font-family:"Comic Sans MS", cursive, sans-serif;
+
+              }
+.bhome{
+   margin: 0 auto;
+  
+}
+.navsty{
+   flex-flow: row nowrap;
+        justify-content:space-between;
+}
+ul
+{
+    list-style-type: none;
+    padding: 5px 5px;
+    color: goldenrod;
+    background-color:#343a40!important;
+}
+.listfav{
+    list-style-type: none;
+    padding: 5px 5px;
+    color: goldenrod;
+    background-color:#343a40!important;
+    }
+.trash{
+    float:right;
+    padding:0px;
+    border:none;
+    background-color:#343a40!important;
+    padding-right: 5px;
+    color: red;
+}
+.dropdown{
+  background-color:#343a40!important;
+
+}
